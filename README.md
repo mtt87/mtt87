@@ -4,6 +4,6 @@ I consider myself mostly a product engineer. I've been building various products
 different companies and in my spare time, and that's what I enjoy the most. 
 
 I work mainly with React, React Native, node.js,
-GraphQL and have been using Typescript since last year.
+GraphQL and Typescript.
 
 📫 How to reach me: https://twitter.com/mattia_asti
