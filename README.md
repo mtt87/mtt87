@@ -1,5 +1,5 @@
 ### Hello 👋,
-I'm **Mattia**, a self-taught **software engineer** with over 14 years of experience, currently based in London, UK.
+I'm **Mattia**, a **software engineer** with over 14 years of experience, currently based in London, UK.
 
 I work best with **TypeScript** across the full stack while specializing in the frontend, where I've been using **React** for years.  
 I started also using **Rust** since 2024 and while I've built a couple of services, I still consider myself a beginner.
